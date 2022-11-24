@@ -1,0 +1,4 @@
+messageNodeFrontend/node_modules
+rest-api-message-node/node_modules
+rest-api-message-node/util/db-link.js
+rest-api-message-node/images
